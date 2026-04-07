@@ -130,7 +130,7 @@ BankingChatResponse {answer, sources, model_used, detected_language, query_type}
 
 - Python 3.9+
 - Node.js 18+
-- TCS MaaS API access (`https://genailab.tcs.in`)
+- MaaS API access (`https://genai.company.in`)
 
 ---
 
