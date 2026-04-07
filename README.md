@@ -1,4 +1,4 @@
-# 🧠 AI Hackathon Boilerplate Generator (React + FastAPI + MAAS Models)
+# 🧠 AI Hackathon - AI-powered Banking FAQ Chatbot (React + FastAPI + MAAS Models)
 
 A production-ready boilerplate built for Gen AI hackathons. Uses a Vite React frontend, FastAPI backend, and LangChain LLM integrations ready to connect to custom MAAS endpoints (like DeepSeek).
 
