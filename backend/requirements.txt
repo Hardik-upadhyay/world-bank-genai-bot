@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+httpx
+openai
+langchain-openai
+langchain-text-splitters
+langchain-community
+chromadb
+tiktoken
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+PyMuPDF
